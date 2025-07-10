@@ -1,3 +1,6 @@
+//https://youtu.be/gCtOZh6pquY
+
+
 PImage referencia;
 float cuadradoX;
 int cuadradoY;
@@ -14,7 +17,6 @@ int giroB = 1;
 void setup()
 {
 size(800,400);
-background(255);
 referencia = loadImage("data/referencia.jpg");
 }
 
